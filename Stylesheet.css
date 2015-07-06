@@ -1,0 +1,56 @@
+html,body{height:100%}
+.container{
+  font-family: arial,sans-serif;
+
+}
+ul{
+  list-style: none;
+
+}
+li{
+  display:inline;
+  margin: 5px 5px 5px 5px;
+}
+.right-header{
+  float:right;
+  width:400px;
+
+
+}
+.left-header{
+  float:left;
+  width:400px;
+
+}
+
+.google-logo img{
+  width:450;
+  height:300px;
+  position:relative;
+  top:10px;
+  left:250px;
+  margin-bottom:-50px;
+}
+.right-footer{
+  float:right;
+  width: 400px;
+}
+.left-footer{
+  float:left;
+
+}
+.left-footer, .right-footer{
+  position:relative;
+  top:250px;
+}
+.search-bar{
+  position:relative;
+  top:25px;
+  left:550px;
+
+}
+textarea{
+  width:500px;
+  position:relative;
+  right:125px;
+}
